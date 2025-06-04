@@ -24,8 +24,14 @@ The computer randomly selects a number, and the player tries to guess it in as f
 - Timed mode (guess within a time limit).
 - Leaderboard (best scores stored in local storage or a file).
 - GUI version.
+
+
 ## Demo
 
 [Insert gif or link to demo]
 
+
+## Lessons Learned
+
+What did you learn while building this project? What challenges did you face and how did you overcome them?
 
