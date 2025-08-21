@@ -16,6 +16,7 @@ The computer randomly selects a number, and the player tries to guess it in as f
 5. Offers a “Play again?” option when the game ends.
 
 
+
 ## Features (Bonus for Extensions)
 
 - Input validation (prevent strings or out-of-range numbers).
@@ -24,6 +25,20 @@ The computer randomly selects a number, and the player tries to guess it in as f
 - Timed mode (guess within a time limit).
 - Leaderboard (best scores stored in local storage or a file).
 - GUI version.
+## Development Tools
+
+This project was developed using the following tools and technologies:
+
+- **Git** – version control system
+- **Eclipse IDE** – Java development environment
+- **Maven** – build automation and dependency management
+- **JUnit 5** – testing framework for Java
+- **Docker** – containerization and deployment
+## Documentation
+
+ - **Report** - the main report for this project. sections explained below:
+    - intro
+    - project overview
 
 
 ## Demo
