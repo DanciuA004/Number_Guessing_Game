@@ -3,7 +3,6 @@
 
 The computer randomly selects a number, and the player tries to guess it in as few attempts as possible. Made as a trial for integrating software and setting up future projects. 
 
-
 ## Features (Basic Version)
 
 1. The computer chooses a random number between 1 and 100.
@@ -16,7 +15,6 @@ The computer randomly selects a number, and the player tries to guess it in as f
 5. Offers a “Play again?” option when the game ends.
 
 
-
 ## Features (Bonus for Extensions)
 
 - Input validation (prevent strings or out-of-range numbers).
@@ -25,6 +23,8 @@ The computer randomly selects a number, and the player tries to guess it in as f
 - Timed mode (guess within a time limit).
 - Leaderboard (best scores stored in local storage or a file).
 - GUI version.
+
+
 ## Development Tools
 
 This project was developed using the following tools and technologies:
@@ -34,9 +34,15 @@ This project was developed using the following tools and technologies:
 - **Maven** – build automation and dependency management
 - **JUnit 5** – testing framework for Java
 - **Docker** – containerization and deployment
+
+
 ## Documentation
 
- - **Report** - the main report for this project. sections explained below:
+### Git Commits
+The specific formatting of my commits to this project.
+
+### Report
+The main report for this project. sections explained below:
     - intro
     - project overview
 
